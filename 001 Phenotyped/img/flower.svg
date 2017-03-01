@@ -1,0 +1,17 @@
+<svg id="whiteflower" width="230px" height="230px" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 230 230" enable-background="new 0 0 230 230" xml:space="preserve">
+    <defs>
+        <symbol id="flower">
+            <ellipse cx="100" cy="100" rx="100" ry="35" fill="url(#gradient)" />"
+            <ellipse cx="100" cy="100" rx="100" ry="35" fill="url(#gradient)"  transform="rotate(72,100,100)" />"
+            <ellipse cx="100" cy="100" rx="100" ry="35" fill="url(#gradient)"  transform="rotate(144,100,100)" />"
+            <ellipse cx="100" cy="100" rx="100" ry="35" fill="url(#gradient)"  transform="rotate(216,100,100)" />"
+            <ellipse cx="100" cy="100" rx="100" ry="35" fill="url(#gradient)"  transform="rotate(288,100,100)" />"
+        </symbol>
+        <linearGradient id="gradient" x1="0" x2="1" y1="0" y2="0">
+            <stop offset="0%" stop-color="rgba(255,25,255,.6)"/>
+            <stop offset="50%" stop-color="rgba(255,255,255,.1)"/>
+            <stop offset="100%" stop-color="rgba(255,255,255,.6)"/>
+        </linearGradient>
+    </defs>
+    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#flower" x="0" y="0" />
+</svg>
